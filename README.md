@@ -6,6 +6,6 @@ Hello Everyone My Name Anas Novaldi !! In This Case we will learn how to squash 
 - 4gb Memory
 - Windows 10
 - Have Browser
-- Storage Space 20GB
+- Storage Space 50GB
 
 Note : Enjoy your train my friend ...
